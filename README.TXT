@@ -23,3 +23,9 @@ Everything else could be pretty much the same.
 
 
 Note: This project does not implement adequate handling of errors.
+
+part ii:
+21. because when it creates the NumberDisplay objects it starts them at their limits, whihc makes them rollover right away
+23. 60 times, by calling the method setTime(1,0);
+24. 'private NumberDisplay digit;' 'digit = new NumberDisplay(10);'
+25. 'private Rectangle window;' 'window = new Rectangle(int width, int length);'
