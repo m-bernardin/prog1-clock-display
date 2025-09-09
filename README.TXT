@@ -36,3 +36,9 @@ part ii:
 29. class objects
 30. 'new Triangle();' 'changeSize(60, 180);' 'moveHorizontal(20);' 'moveVertical(-40);' 'makeVisible();'
 
+31. aside from its own method calls no, none of its methods call on any of its other methods
+32. 2
+33. the results sign is based on the sign of the number being divided
+34. 0, 1, 2, 3, 4
+35. all integers 0 and m-1
+
