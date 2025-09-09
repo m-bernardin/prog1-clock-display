@@ -42,3 +42,5 @@ part ii:
 34. 0, 1, 2, 3, 4
 35. all integers 0 and m-1
 
+37. i found the masked one easier to write, but its not where my head understood it, neither option is particularly better, because were at avery small scale, but the masked one would be better because it requires less code, and is therefore faster
+ 
