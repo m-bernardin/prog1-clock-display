@@ -29,3 +29,10 @@ part ii:
 23. 60 times, by calling the method setTime(1,0);
 24. 'private NumberDisplay digit;' 'digit = new NumberDisplay(10);'
 25. 'private Rectangle window;' 'window = new Rectangle(int width, int length);'
+
+26. it makes a clock at a preset time, it does this the same way as the default clock, but calls the setTime(int hours, int minutes); method at the end with the custom time set when the constructor method was called
+27. setTime already calls on updateDisplay in its own code
+28. 'p1.print("deck1.jpg", false);' 'p1.print("chem lab 2.pdf", true);' 'p1.getStatus(1);' 'p1.getStatus(3);'
+29. class objects
+30. 'new Triangle();' 'changeSize(60, 180);' 'moveHorizontal(20);' 'moveVertical(-40);' 'makeVisible();'
+
