@@ -44,3 +44,5 @@ part ii:
 
 37. i found the masked one easier to write, but its not where my head understood it, neither option is particularly better, because were at avery small scale, but the masked one would be better because it requires less code, and is therefore faster
  
+51. it gets my time but advances it by 4 hours? i dont understand how its aquiring the time though so i cant fix it
+52. it returns the same value, but without the the 0 it returns the valye with a space instead of a zero

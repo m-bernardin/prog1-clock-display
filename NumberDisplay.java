@@ -67,4 +67,9 @@ public class NumberDisplay
     {
         value = (value + 1) % limit;
     }
+    
+    public String getAltDisplayValue()
+    {
+        return String.format("%02d", value);
+    }
 }

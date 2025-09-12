@@ -16,4 +16,6 @@ comment4.text=\r\n\ Set\ the\ value\ of\ the\ display\ to\ the\ new\ specified\ 
 comment5.params=
 comment5.target=void\ increment()
 comment5.text=\r\n\ Increment\ the\ display\ value\ by\ one,\ rolling\ over\ to\ zero\ if\ the\r\n\ limit\ is\ reached.\r\n
-numComments=6
+comment6.params=
+comment6.target=java.lang.String\ getAltDisplayValue()
+numComments=7
